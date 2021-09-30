@@ -1,0 +1,16 @@
+Nguyen_Hai_Anh 9.5
+Nguyen_Quoc_Anh 9
+Pham_Thanh_Bien 9.5
+Truong_Trong_Cuong 8.6
+Pham_Hai_Dang 8.5
+Nguyen_Manh_Dung 7.9
+Dao_Quang_Duong 8.0
+La_Ngoc_Duong 6.0
+Nguyen_Dinh_Duy 6.4
+Hoang_Minh_Giap 7.8
+Nguyen_Ba_Hai 8.4
+Nguyen_Duc_Hai 7.0
+Nguyen_Thu_Hieu 8.8
+Le_Viet_Hoang 9.1
+Vu_Pham_Viet_Hoang 7.5
+Le_Duc_Huy 7.8

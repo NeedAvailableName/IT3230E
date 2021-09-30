@@ -1,0 +1,13 @@
+silent: im_lang
+diamond: kim_cuong
+filthy: do_day
+the_past: di_vang
+conceal: giau_diem
+blossom: hoa_no
+spring: mua_xuan
+computer: may_tinh
+algorithm: thuat_toan
+data_structure: cau_truc_du_lieu
+operating_system: he_dieu_hanh
+computer_architecture: cau_truc_may_tinh
+database: co_so_du_lieu

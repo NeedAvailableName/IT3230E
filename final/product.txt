@@ -1,0 +1,4 @@
+1;Samsung_Television;20000000.4
+2;Apple_MacBook_2020;17654000.6
+3;Playstation_PES_4;9856.56
+4;Hennessy_2001;1023

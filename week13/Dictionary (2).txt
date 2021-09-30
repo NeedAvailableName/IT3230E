@@ -1,0 +1,8 @@
+silent: im_lang
+diamond: kim_cuong
+filthy: do_day
+the_past: di_vang
+conceal: giau_diem
+blossom: hoa_no
+spring: mua_xuan
+
